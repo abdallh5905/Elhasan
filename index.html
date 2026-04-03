@@ -9,6 +9,28 @@
   gtag('js', new Date());
 
   gtag('config', 'AW-18050632884');
+
+  <!-- Event snippet for بدء عملية الدفع conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18050632884/Var6CIuv8JQcELSZm59D'});
+</script>
+<!-- Event snippet for بدء عملية الدفع conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18050632884/Var6CIuv8JQcELSZm59D',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
 </script>
     
     <meta charset="UTF-8">
