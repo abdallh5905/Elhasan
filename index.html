@@ -1,6 +1,28 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
+  <!-- Event snippet for جهة اتصال (1) conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18050632884/JERGCJnvqqIcELSZm59D'});
+                               </script>
+
+  <!-- Event snippet for جهة اتصال (1) conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18050632884/JERGCJnvqqIcELSZm59D',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+  
   <meta property="og:site_name" content="الحسن لنقل العفش">
 <meta property="og:title" content="الحسن لنقل العفش بالرياض">
   
