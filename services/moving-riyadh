@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<!-- ############################## -->
+/* جميع أكواد head الأصلية محفوظة كما هي دون أي تعديل أو حذف */
+<!-- ############################## -->
+<script nowprocket nitro-exclude type="text/javascript" id="sa-dynamic-optimization" data-uuid="b76070c8-c7ef-45a5-afc7-e45ee3db70ac" src="data:text/javascript;base64,dmFyIHNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3NjcmlwdC5zZXRBdHRyaWJ1dGUoIm5vd3Byb2NrZXQiLCAiIik7c2NyaXB0LnNldEF0dHJpYnV0ZSgibml0cm8tZXhjbHVkZSIsICIiKTtzY3JpcHQuc3JjID0gImh0dHBzOi8vZGFzaGJvYXJkLnNlYXJjaGF0bGFzLmNvbS9zY3JpcHRzL2R5bmFtaWNfb3B0aW1pemF0aW9uLmpzIjtzY3JpcHQuZGF0YXNldC51dWlkID0gImI3NjA3MGM4LWM3ZWYtNDVhNS1hZmM3LWU0NWVlM2RiNzBhYyI7c2NyaXB0LmlkID0gInNhLWR5bmFtaWMtb3B0aW1pemF0aW9uLWxvYWRlciI7ZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChzY3JpcHQpOw=="></script>  
+<!-- Event snippet for جهة اتصال (1) conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18050632884/JERGCJnvqqIcELSZm59D'});
+</script>
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18050632884/JERGCJnvqqIcELSZm59D',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<meta property="og:site_name" content="الحسن لنقل العفش">
+<meta property="og:title" content="الحسن لنقل العفش بالرياض - خدمات نقل احترافية">
+<script type="application/ld+json">
+{
+ "@context":"https://schema.org",
+ "@type":"WebSite",
+ "name":"الحسن لنقل العفش",
+ "alternateName":"Elhasan",
+ "url":"https://elhasan.online/"
+}
+</script>
+<meta http-equiv="Content-Security-Policy" content="
+default-src 'self';
+img-src 'self' data: https:;
+script-src 'self' 'unsafe-inline' https:;
+style-src 'self' 'unsafe-inline' https:;
+font-src 'self' https: data:;
+connect-src 'self' https:;
+frame-src 'self';
+object-src 'none';
+base-uri 'self';
+form-action 'self';
+upgrade-insecure-requests;
+">
+<link rel="icon" type="image/png" href="/favicon.ico" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon.svg" sizes="16x16">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/favicon.ico">
+<meta name="theme-color" content="#ffffff">
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18050632884/CF-eCO6Cx6EcELSZm59D',
+      'value': 1.0,
+      'currency': 'SAR',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18050632884/wgHSCJzyxqEcELSZm59D',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18050632884"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-18050632884');
+</script>
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18050632884/Var6CIuv8JQcELSZm59D'});
+</script>
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18050632884/Var6CIuv8JQcELSZm59D',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>خدمات نقل العفش بالرياض | شركة الحسن لنقل الأثاث والفك والتركيب</title>
+<meta name="description" content="شركة الحسن لنقل العفش بالرياض: خدمات نقل أثاث، فك وتركيب، تغليف، تخزين. أسطول حديث، عمالة مدربة، أسعار تنافسية. اتصل 0565056132">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://elhasan.online/services/moving-riyadh/">
+<meta property="og:locale" content="ar_AR">
+<meta property="og:type" content="service">
+<meta property="og:title" content="خدمات نقل العفش بالرياض - شركة الحسن">
+<meta property="og:description" content="أفضل شركة نقل عفش بالرياض، شاحنات مغلقة، فك وتركيب وتغليف احترافي، أسعار منافسة.">
+<meta property="og:url" content="https://elhasan.online/services/moving-riyadh/">
+<meta property="og:image" content="https://elhasan.online/apple-touch-icon.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="نقل عفش بالرياض - الحسن">
+<meta name="twitter:description" content="خدمات نقل وتغليف وفك أثاث بالرياض بجودة عالية.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "نقل عفش بالرياض",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "الحسن لنقل العفش",
+    "url": "https://elhasan.online/"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "الرياض"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "SAR",
+      "price": "يبدأ من 300 ريال"
+    }
+  }
+}
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+<style>
+    :root {
+        --primary: #2c3e50;
+        --secondary: #FFFFFF;
+        --accent: #e67e22;
+        --light-accent: #f7eee9;
+        --gray: #5d6d7e;
+        --light-gray: #ecf0f1;
+        --whatsapp: #25D366;
+        --call: #1E88E5;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Tajawal', sans-serif; }
+    body { background-color: var(--secondary); color: var(--primary); line-height: 1.6; }
+    .container { width: 90%; max-width: 1200px; margin: 0 auto; padding: 0 15px; }
+    section { padding: 60px 0; }
+    h1, h2, h3 { font-weight: 700; margin-bottom: 1rem; }
+    h1 { font-size: 2.8rem; color: var(--primary); }
+    h2 { font-size: 2.2rem; text-align: center; margin-bottom: 2rem; position: relative; }
+    h2:after { content: ''; position: absolute; bottom: -12px; right: 50%; transform: translateX(50%); width: 80px; height: 3px; background: var(--accent); border-radius: 2px; }
+    .btn { display: inline-flex; align-items: center; justify-content: center; padding: 12px 24px; border-radius: 50px; font-weight: 700; text-decoration: none; margin: 5px; transition: 0.3s; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+    .btn-call { background: var(--call); color: white; }
+    .btn-whatsapp { background: var(--whatsapp); color: white; }
+    .btn-dark { background: var(--primary); color: white; }
+    .btn-accent { background: var(--accent); color: white; }
+    /* header same as original but simplified for this page - we keep identical navbar style */
+    header { background: var(--primary); position: sticky; top: 0; z-index: 1000; padding: 10px 0; box-shadow: 0 2px 15px rgba(0,0,0,0.1); }
+    .navbar { display: flex; justify-content: space-between; align-items: center; }
+    .logo { display: flex; align-items: center; text-decoration: none; color: white; }
+    .logo-icon { background: var(--accent); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-left: 10px; }
+    .nav-links { list-style: none; display: flex; gap: 25px; }
+    .nav-links a { text-decoration: none; color: white; font-weight: 600; }
+    .nav-buttons { display: flex; gap: 12px; }
+    .breadcrumb { background: var(--light-gray); padding: 12px 20px; border-radius: 40px; display: inline-block; margin: 20px 0; font-size: 0.9rem; }
+    .breadcrumb a { color: var(--accent); text-decoration: none; }
+    .service-highlight { background: linear-gradient(135deg, var(--light-accent), white); border-radius: 30px; padding: 40px; margin: 30px 0; }
+    .grid-2col { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 30px; }
+    .feature-card { background: white; border-radius: 20px; padding: 25px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); border-right: 4px solid var(--accent); }
+    .areas-list { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 30px 0; }
+    .area-pill { background: var(--light-gray); padding: 8px 20px; border-radius: 50px; text-decoration: none; color: var(--primary); font-weight: 600; transition: 0.2s; }
+    .area-pill:hover { background: var(--accent); color: white; }
+    .related-services-block { background: var(--primary); color: white; border-radius: 30px; padding: 40px; margin-top: 50px; text-align: center; }
+    .related-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 25px; }
+    .related-links a { background: rgba(255,255,255,0.15); padding: 8px 20px; border-radius: 50px; color: white; text-decoration: none; font-weight: 600; transition: 0.2s; }
+    .related-links a:hover { background: var(--accent); }
+    footer { background: var(--primary); color: white; padding: 40px 0 20px; margin-top: 40px; }
+    .footer-content { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap: 30px; }
+    .floating-btns { position: fixed; bottom: 20px; left: 20px; display: flex; flex-direction: column; gap: 12px; z-index: 999; }
+    .floating-btn { width: 55px; height: 55px; border-radius: 50%; background: var(--call); color: white; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; text-decoration: none; box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+    .floating-btn.whatsapp { background: var(--whatsapp); }
+    @media (max-width: 768px) { h1 { font-size: 2rem; } .nav-links, .nav-buttons { display: none; } .hamburger { display: block; } }
+    /* quick mobile menu */
+    .hamburger { display: none; flex-direction: column; cursor: pointer; }
+    .hamburger span { width: 25px; height: 3px; background: white; margin: 3px 0; }
+    .mobile-menu { position: fixed; top: 70px; right: -100%; width: 80%; background: var(--primary); transition: 0.3s; padding: 20px; z-index: 999; }
+    .mobile-menu.active { right: 0; }
+</style>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <div class="navbar">
+            <a href="/" class="logo">
+                <div class="logo-icon"><i class="fas fa-truck-moving"></i></div>
+                <span style="font-weight:800;">الحسن لنقل العفش</span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="/">الرئيسية</a></li>
+                <li><a href="/services/moving-riyadh/">نقل عفش</a></li>
+                <li><a href="/services/furniture-assembly/">فك وتركيب</a></li>
+                <li><a href="/services/packing/">تغليف</a></li>
+                <li><a href="/services/storage/">تخزين</a></li>
+                <li><a href="/areas/">مناطق الخدمة</a></li>
+                <li><a href="/prices/">الأسعار</a></li>
+                <li><a href="/contact/">اتصل بنا</a></li>
+            </ul>
+            <div class="nav-buttons">
+                <a href="tel:0565056132" class="btn btn-call" style="padding:6px 16px;">اتصل</a>
+                <a href="https://wa.me/966565056132" class="btn btn-whatsapp" style="padding:6px 16px;">واتساب</a>
+            </div>
+            <div class="hamburger" id="hamburger"><span></span><span></span><span></span></div>
+        </div>
+    </div>
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="/">الرئيسية</a>
+        <a href="/services/moving-riyadh/">نقل عفش</a>
+        <a href="/services/furniture-assembly/">فك وتركيب</a>
+        <a href="/services/packing/">تغليف</a>
+        <a href="/services/storage/">تخزين</a>
+        <a href="/areas/">مناطق الخدمة</a>
+        <a href="/prices/">الأسعار</a>
+        <a href="/contact/">اتصل بنا</a>
+    </div>
+</header>
+
+<main class="container">
+    <!-- Breadcrumb مع schema -->
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList" style="list-style:none; display:flex; gap:8px; flex-wrap:wrap;">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a href="/" itemprop="item"><span itemprop="name">الرئيسية</span></a>
+                <meta itemprop="position" content="1">
+            </li>
+            <li> / </li>
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">خدمات نقل العفش بالرياض</span>
+                <meta itemprop="position" content="2">
+            </li>
+        </ol>
+    </nav>
+
+    <section>
+        <h1>خدمات نقل العفش بالرياض – شركة الحسن لنقل الأثاث والفك والتركيب</h1>
+        <div class="service-highlight">
+            <p><strong>شركة الحسن</strong> تقدم <strong>نقل عفش بالرياض</strong> بأعلى معايير الجودة والسلامة. نختص في <strong>نقل الأثاث</strong>، <strong>فك وتركيب جميع أنواع التحف والمجالس والمطابخ</strong>، <strong>تغليف احترافي</strong>، و<strong>تخزين آمن</strong>. أسطولنا مجهز بأحدث الشاحنات المغلقة والعمالة المدربة خبرة تزيد عن 10 سنوات.</p>
+            <div style="display: flex; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
+                <a href="tel:0565056132" class="btn btn-call"><i class="fas fa-phone"></i> اتصل الآن</a>
+                <a href="https://wa.me/966565056132" class="btn btn-whatsapp"><i class="fab fa-whatsapp"></i> واتساب</a>
+                <a href="#prices-section" class="btn btn-dark">احصل على عرض سعر</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- رابط سياقي داخلي لدعم هيكل الـ Link Wheel -->
+    <div class="grid-2col">
+        <div class="feature-card">
+            <i class="fas fa-truck" style="font-size: 2rem; color: var(--accent);"></i>
+            <h3>نقل عفش بالرياض – أسطول مغلق</h3>
+            <p>نقوم بنقل الأثاث بجميع أحياء الرياض (شمال، شرق، غرب، جنوب) بشاحنات مغلقة ومكيفة تحمي العفش من الغبار والحرارة. <a href="/areas/north-riyadh/" class="internal-link">نقل عفش شمال الرياض</a>، <a href="/areas/east-riyadh/">شرق الرياض</a>، <a href="/areas/west-riyadh/">غرب الرياض</a>، <a href="/areas/south-riyadh/">جنوب الرياض</a>.</p>
+        </div>
+        <div class="feature-card">
+            <i class="fas fa-tools" style="font-size: 2rem; color: var(--accent);"></i>
+            <h3>فك وتركيب الأثاث الاحترافي</h3>
+            <p>فريق متخصص يفك ويُركب جميع أنواع الأثاث (غرف نوم، مطابخ، مجالس) بأدوات حديثة وضمان ضد التلف. تعرف على <a href="/services/furniture-assembly/">خدمة فك وتركيب الاثاث بالرياض</a>.</p>
+        </div>
+        <div class="feature-card">
+            <i class="fas fa-boxes" style="font-size: 2rem; color: var(--accent);"></i>
+            <h3>تغليف الأثاث – حماية 100%</h3>
+            <p>نستخدم مواد تغليف عالية الجودة (بلاستيك فقاعي، كرتون سميك، زوايا حماية) لضمان عدم تعرض الأثاث للخدش أو الكسر. <a href="/services/packing/">اطلب خدمة تغليف الأثاث</a>.</p>
+        </div>
+        <div class="feature-card">
+            <i class="fas fa-warehouse" style="font-size: 2rem; color: var(--accent);"></i>
+            <h3>تخزين الأثاث بالرياض</h3>
+            <p>مستودعات نظيفة ومؤمنة ضد الحريق والسرقة لتخزين أثاثك لفترات طويلة أو قصيرة. <a href="/services/storage/">تفاصيل التخزين</a>.</p>
+        </div>
+    </div>
+
+    <!-- مناطق الخدمة - روابط إلى صفحات الكلستر -->
+    <section>
+        <h2>مناطق تغطية نقل العفش في الرياض</h2>
+        <div class="areas-list">
+            <a href="/areas/north-riyadh/" class="area-pill">شمال الرياض</a>
+            <a href="/areas/east-riyadh/" class="area-pill">شرق الرياض</a>
+            <a href="/areas/west-riyadh/" class="area-pill">غرب الرياض</a>
+            <a href="/areas/south-riyadh/" class="area-pill">جنوب الرياض</a>
+            <a href="/areas/al-narjis/" class="area-pill">حي النرجس</a>
+            <a href="/areas/al-yasmin/" class="area-pill">حي الياسمين</a>
+            <a href="/areas/al-malqa/" class="area-pill">حي الملقا</a>
+            <a href="/areas/al-sahafa/" class="area-pill">حي الصحافة</a>
+            <a href="/areas/al-rawdah/" class="area-pill">حي الروضة</a>
+            <a href="/areas/al-qadisiyah/" class="area-pill">حي القادسية</a>
+        </div>
+        <p>لدينا فروع ميدانية في جميع أحياء الرياض لتقديم خدمة سريعة خلال ساعتين من الاتصال. <strong>نقل عفش شقق، فلل، مكاتب</strong> بأسعار تنافسية.</p>
+    </section>
+
+    <!-- السياق الداخلي ولينك ويل (ربط خدمات أخرى) -->
+    <div class="related-services-block">
+        <h3 style="color: white;">خدمات متكاملة لنقل العفش باحترافية</h3>
+        <p style="margin-bottom: 15px;">نحن لسنا مجرد شركة نقل عفش، بل نقدم حلولاً شاملة تشمل فك وتركيب، تغليف، تخزين، وشحن.</p>
+        <div class="related-links">
+            <a href="/services/furniture-assembly/">فك وتركيب الأثاث</a>
+            <a href="/services/packing/">تغليف الأثاث</a>
+            <a href="/services/storage/">تخزين الأثاث</a>
+            <a href="/prices/">أسعار نقل العفش</a>
+            <a href="/tips/">نصائح قبل النقل</a>
+            <a href="/faq/">الأسئلة الشائعة</a>
+        </div>
+    </div>
+
+    <!-- جدول الأسعار التقريبي + روابط -->
+    <section id="prices-section">
+        <h2>أسعار نقل العفش بالرياض – شفافة وتنافسية</h2>
+        <div class="grid-2col">
+            <div class="feature-card">
+                <h3>نقل عفش شقة (غرفتين)</h3>
+                <p>يبدأ من <strong>500 ريال</strong> شامل الفك والتغليف والتركيب داخل الرياض.</p>
+                <a href="https://wa.me/966565056132" class="btn btn-whatsapp">احصل على سعر خاص</a>
+            </div>
+            <div class="feature-card">
+                <h3>نقل عفش فيلا (4-5 غرف)</h3>
+                <p>يبدأ من <strong>1000 ريال</strong> حسب المسافة وعدد القطع، مع عمالة مدربة.</p>
+                <a href="tel:0565056132" class="btn btn-call">استفسار سريع</a>
+            </div>
+        </div>
+        <p style="margin-top: 20px;">لمعرفة <strong>أسعار نقل العفش</strong> حسب منطقتك، تواصل معنا. نوفر عروض شهرية وتخفيضات للعملاء الجدد. <a href="/prices/">قائمة الأسعار الكاملة</a>.</p>
+    </section>
+
+    <!-- محتوى نصي غني بالكلمات المفتاحية لتعزيز topical authority -->
+    <section>
+        <h2>لماذا تختار شركة الحسن لنقل العفش بالرياض؟</h2>
+        <div class="grid-2col">
+            <div><i class="fas fa-check-circle" style="color: var(--accent);"></i> <strong>خبرة أكثر من 10 سنوات</strong> – أكثر من 5000 عملية نقل ناجحة.</div>
+            <div><i class="fas fa-check-circle" style="color: var(--accent);"></i> <strong>طاقم مدرب على فك وتركيب الأثاث</strong> – حماية القطع الثمينة.</div>
+            <div><i class="fas fa-check-circle" style="color: var(--accent);"></i> <strong>شاحنات مغلقة ونظام تتبع</strong> – تحديثات فورية عن حالة النقل.</div>
+            <div><i class="fas fa-check-circle" style="color: var(--accent);"></i> <strong>تغليف احترافي بمواد ألمانية</strong> – ضمان ضد الخدوش والكسر.</div>
+            <div><i class="fas fa-check-circle" style="color: var(--accent);"></i> <strong>تخزين آمن بمراقبة 24 ساعة</strong> – مستودعات بأسعار مخفضة.</div>
+            <div><i class="fas fa-check-circle" style="color: var(--accent);"></i> <strong>أسعار تنافسية مع عروض موسمية</strong> – اتصل للمقارنة.</div>
+        </div>
+    </section>
+
+    <!-- قسم نصائح داخلية (سياقي) -->
+    <div class="service-highlight">
+        <h3>نصائح قبل نقل العفش بالرياض</h3>
+        <p>لضمان تجربة نقل سلسة، ننصح بالتخطيط المبكر، التخلص من الأغراض غير الضرورية، وتغليف الأجهزة الحساسة. اقرأ <a href="/tips/">دليل نقل العفش الشامل</a>.</p>
+        <a href="/tips/" class="btn btn-dark">المزيد من النصائح</a>
+    </div>
+
+    <!-- قسم الأسئلة الشائعة المختصرة مع روابط داخلية -->
+    <section>
+        <h2>أسئلة شائعة عن نقل العفش بالرياض</h2>
+        <div class="feature-card">
+            <h3>كم تكلفة نقل العفش من الرياض إلى جدة؟</h3>
+            <p>نقدم خدمة <strong>نقل عفش خارج الرياض</strong> بأسعار تنافسية. اتصل بنا للحصول على عرض سعر دقيق حسب حجم الأثاث.</p>
+            <a href="/faq/#outofriyadh" class="internal-link">اطلع على تفاصيل الشحن الداخلي</a>
+        </div>
+        <div class="feature-card">
+            <h3>هل تقومون بتغليف الزجاج والمرايا؟</h3>
+            <p>نعم، لدينا تقنيات خاصة لتغليف الزجاج والمرايا والتحف. تعرف على <a href="/services/glass-packing/">خدمة تغليف الزجاج</a>.</p>
+        </div>
+        <div class="feature-card">
+            <h3>هل يتوفر تخزين موسمي للأثاث؟</h3>
+            <p>نعم، مستودعاتنا مهيأة للتخزين طويل الأمد مع إمكانية الاسترجاع في أي وقت. <a href="/services/seasonal-storage/">خدمة التخزين الموسمي</a>.</p>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="footer-content">
+            <div>
+                <h4>شركة الحسن لنقل العفش</h4>
+                <p>نقل عفش بالرياض – فك وتركيب – تغليف – تخزين – خدمة سريعة وآمنة.</p>
+                <p><i class="fas fa-phone"></i> 0565056132</p>
+                <p><i class="fab fa-whatsapp"></i> 0565056132</p>
+            </div>
+            <div>
+                <h4>روابط سريعة</h4>
+                <ul>
+                    <li><a href="/services/moving-riyadh/">نقل عفش بالرياض</a></li>
+                    <li><a href="/services/furniture-assembly/">فك وتركيب الأثاث</a></li>
+                    <li><a href="/services/packing/">تغليف الأثاث</a></li>
+                    <li><a href="/services/storage/">تخزين الأثاث</a></li>
+                    <li><a href="/prices/">أسعار نقل العفش</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>مناطق الرياض</h4>
+                <ul>
+                    <li><a href="/areas/north-riyadh/">شمال الرياض</a></li>
+                    <li><a href="/areas/east-riyadh/">شرق الرياض</a></li>
+                    <li><a href="/areas/west-riyadh/">غرب الرياض</a></li>
+                    <li><a href="/areas/south-riyadh/">جنوب الرياض</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright" style="text-align:center; margin-top:30px;">© 2025 الحسن لنقل العفش - جميع الحقوق محفوظة</div>
+    </div>
+</footer>
+
+<div class="floating-btns">
+    <a href="tel:0565056132" class="floating-btn"><i class="fas fa-phone"></i></a>
+    <a href="https://wa.me/966565056132" class="floating-btn whatsapp"><i class="fab fa-whatsapp"></i></a>
+</div>
+
+<script>
+    const hamburger = document.getElementById('hamburger');
+    const mobileMenu = document.getElementById('mobileMenu');
+    if(hamburger) hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
+        mobileMenu.classList.toggle('active');
+    });
+    document.querySelectorAll('.mobile-menu a').forEach(link => {
+        link.addEventListener('click', () => {
+            hamburger.classList.remove('active');
+            mobileMenu.classList.remove('active');
+        });
+    });
+</script>
+</body>
+</html>
