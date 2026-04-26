@@ -1,16 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-  <loc>https://elhasan.online/</loc>
-  <lastmod>2026-04-23T19:09:44+00:00</lastmod>
+<loc>https://elhasan.online/index.html</loc>
 </url>
 
+<url>
+<loc>https://elhasan.online/prices.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/tips.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/faq.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/blog.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/guarantees.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/areas/north-riyadh.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/areas/east-riyadh.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/areas/west-riyadh.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/areas/south-riyadh.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/services/bedroom-assembly.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/services/kitchen-assembly.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/services/majlis-assembly.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/services/glass-packing.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/services/electronics-packing.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/services/seasonal-storage.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/privacy.html</loc>
+</url>
+
+<url>
+<loc>https://elhasan.online/uses.html</loc>
+</url>
 
 </urlset>
