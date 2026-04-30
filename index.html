@@ -423,41 +423,27 @@
   document.querySelectorAll('.mobile-nav-links a').forEach(link => { link.addEventListener('click', () => { hamburger.classList.remove('active'); mobileMenu.classList.remove('active'); }); });
   window.addEventListener('scroll', () => { const header = document.querySelector('header'); if(header) header.classList.toggle('scrolled', window.scrollY > 40); });
 </script>
-<script>
+
+  <script>
 (function() {
-  function removeIntrudingBadges() {
-    // إخفاء أي عنصر له خلفية برتقالية داخل header أو nav
-    const headers = document.querySelectorAll('header, nav, .navbar, .mobile-menu');
-    headers.forEach(header => {
-      const orangeElements = header.querySelectorAll('*');
-      orangeElements.forEach(el => {
-        const bgColor = window.getComputedStyle(el).backgroundColor;
-        // اللون البرتقالي عادة rgb(230, 126, 34) أو #e67e22
-        if (bgColor === 'rgb(230, 126, 34)' || bgColor === '#e67e22' || bgColor === 'rgb(230,126,34)') {
-          if (el.innerText && (el.innerText.includes('شاحنة') || el.innerText.includes('نقل') || el.innerText.includes('مغلقة'))) {
-            el.style.display = 'none';
-          }
-        }
-      });
-    });
-    
-    // إخفاء أي عنصر يحمل النص "شاحنة مغلقة" أو "نقل ثقيل" في كامل الصفحة (إذا كان عنصرًا فرديًا)
-    const allElements = document.querySelectorAll('*');
-    allElements.forEach(el => {
-      if (el.childNodes.length === 0 && el.innerText) {
+  function hideOrangeBadges() {
+    const all = document.querySelectorAll('*');
+    all.forEach(el => {
+      const bg = window.getComputedStyle(el).backgroundColor;
+      const isOrange = bg === 'rgb(230, 126, 34)' || bg === '#e67e22' || bg === 'rgb(230,126,34)';
+      if (isOrange && el.innerText) {
         const text = el.innerText.trim();
         if (text === 'شاحنة مغلقة' || text === 'نقل ثقيل' || text.includes('شاحنة مغلقة')) {
-          el.style.display = 'none';
+          el.style.setProperty('display', 'none', 'important');
+          console.log('تم إخفاء:', text);
         }
       }
     });
   }
-  
-  // التنفيذ فورًا وبعد تحميل الصفحة ومع التأخير لالتقاط أي حقن متأخر
-  removeIntrudingBadges();
-  document.addEventListener('DOMContentLoaded', removeIntrudingBadges);
-  setTimeout(removeIntrudingBadges, 500);
-  setTimeout(removeIntrudingBadges, 1500);
+  hideOrangeBadges();
+  document.addEventListener('DOMContentLoaded', hideOrangeBadges);
+  setTimeout(hideOrangeBadges, 500);
+  new MutationObserver(hideOrangeBadges).observe(document.body, { childList: true, subtree: true });
 })();
 </script>
 </body>
