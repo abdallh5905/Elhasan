@@ -424,5 +424,28 @@
   document.querySelectorAll('.mobile-nav-links a').forEach(link => { link.addEventListener('click', () => { hamburger.classList.remove('active'); mobileMenu.classList.remove('active'); }); });
   window.addEventListener('scroll', () => { const header = document.querySelector('header'); if(header) header.classList.toggle('scrolled', window.scrollY > 40); });
 </script>
+  <script>
+(function() {
+  // وظيفة لإخفاء العناصر التي تحتوي على النص المحدد
+  function hideElementsContainingText(text) {
+    const allElements = document.querySelectorAll('*');
+    allElements.forEach(el => {
+      if (el.childNodes.length === 0 && el.innerText && el.innerText.trim() === text) {
+        el.style.display = 'none';
+      } else if (el.innerText && el.innerText.includes(text) && el.children.length === 0) {
+        // إذا كان العنصر يحتوي النص بدقة ولم يكن أبًا لعناصر أخرى
+        el.style.display = 'none';
+      }
+    });
+  }
+  
+  // التنفيذ بعد تحميل الصفحة
+  window.addEventListener('DOMContentLoaded', function() {
+    hideElementsContainingText('نقل ثقيل');
+    // أيضًا محاولة بعد ثانية للتأكد من إزالة أي عنصر يضاف لاحقًا
+    setTimeout(() => hideElementsContainingText('نقل ثقيل'), 1000);
+  });
+})();
+</script>
 </body>
 </html>
