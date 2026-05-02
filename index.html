@@ -16,36 +16,27 @@
 
   gtag('config', 'AW-18129059392');
 </script>
-  <!-- Event snippet for Click to call conversion page -->
-  <script>
-  function gtag_report_conversion(url) {
-    var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } };
-    gtag('event', 'conversion', { 'send_to': 'AW-18128862620/0AJACKObkaUcEJz7wcRD', 'value': 1.0, 'currency': 'SAR', 'event_callback': callback });
-    return false;
-  }
-  </script>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18128862620"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18050632884"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'AW-18128862620');
-    gtag('config', 'AW-18129059392');
-    
-    // دالة موحدة لجميع أحداث التحويل
-    function trackAllConversions(url) {
-      gtag('event', 'conversion', { 'send_to': 'AW-18129059392/0AJACKObkaUcEJz7wcRD', 'value': 1.0, 'currency': 'SAR' });
-      gtag('event', 'conversion', { 'send_to': 'AW-18129059392/JERGCJnvqqIcELSZm59D' });
-      gtag('event', 'conversion', { 'send_to': 'AW-18129059392/CF-eCO6Cx6EcELSZm59D', 'value': 1.0, 'currency': 'SAR' });
-      gtag('event', 'conversion', { 'send_to': 'AW-18129059392/wgHSCJzyxqEcELSZm59D' });
-      gtag('event', 'conversion', { 'send_to': 'AW-18129059392/Var6CIuv8JQcELSZm59D' });
-      if (url && typeof url !== 'undefined') { setTimeout(function() { window.location = url; }, 100); }
-      return false;
+<!-- Event snippet for جهة اتصال conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-18129059392/gGTRCPCOuaUcEMD8zcRD'});
+</script>
+<!-- Event snippet for جهة اتصال conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
     }
-    window.trackAllConversions = trackAllConversions;
-  </script>
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-18129059392/gGTRCPCOuaUcEMD8zcRD',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+  
   
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
